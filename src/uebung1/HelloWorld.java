@@ -1,6 +1,6 @@
-package Uebung1;
+package uebung1;
 
-public class HelloWorld {
+class HelloWorld {
 
     public static void main(String[] args) {
 

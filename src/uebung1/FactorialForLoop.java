@@ -1,18 +1,18 @@
-package Uebung1;
+package uebung1;
 
-public class FactorialForLoop {
+class FactorialForLoop {
     public static void main(String[] args) {
 
         int number = 5 ;
-        int fak = 1 ;
+        long fac = 1 ;
 
         for (int i = 1; i <= number; i++) {
 
-            fak *= i;
+            fac *= i;
 
         }
 
-        System.out.println(fak);
+        System.out.println(fac);
 
     }
 

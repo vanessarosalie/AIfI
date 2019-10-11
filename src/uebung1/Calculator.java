@@ -1,4 +1,4 @@
-package Uebung1;
+package uebung1;
 
 class Calculator {
 
