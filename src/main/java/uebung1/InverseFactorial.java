@@ -6,7 +6,7 @@ class InverseFactorial {
 
         long fac = 1 ;
 
-        for (int i = 0; i <= 1000; i++) {
+        for (int i = 1; i <= 1000; i++) {
             fac = i * fac;
 
             if (fac > 1000000) {
